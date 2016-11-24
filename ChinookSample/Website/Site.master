@@ -88,6 +88,7 @@
                             <asp:MenuItem Text="Queries" Value="query">
                                 <asp:MenuItem Text="First Sample" NavigateUrl="~/Queries/FirstSample" />
                                <asp:MenuItem Text="Customer of Rep" NavigateUrl="~/Queries/customerRep" />
+                                <asp:MenuItem Text="Tables Sample" NavigateUrl="~/Queries/TablesSample" />
                             </asp:MenuItem>
 
                              <%-- a drop down menu has nested menuitems Business Processes--%>
